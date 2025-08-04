@@ -13,6 +13,7 @@
     "db:studio": "prisma studio"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.28.1",
     "@prisma/client": "6.12.0",
     "@radix-ui/react-label": "^2.1.7",
     "@react-email/components": "^0.3.2",
